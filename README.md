@@ -17,6 +17,6 @@ Instead of endlessly messaging back and forth in group chats to find a time that
 ## Project Documentation
 *This section serves as a living document for the system architecture.*
 
-*   **[Insert Link to Use Case Diagram]** - System boundaries and actor interactions.
+*   **[Insert Link to App Flow Diagram]** - Shows basic app flow.
 *   **[Insert Link to EER Diagram]** - Relational database schema mapping Users, Groups, Polls, and Availability Blocks.
-*   **[Insert Link to Flowchart]** - Logic flow for the automated tie-breaker and conflict-resolution algorithms.
+*   **[Insert Link to Flowchart]** - Logic flows for pages and processes.
