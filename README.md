@@ -17,6 +17,10 @@ Instead of endlessly messaging back and forth in group chats to find a time that
 ## Project Documentation
 *This section serves as a living document for the system architecture.*
 
-*   **[Insert Link to App Flow Diagram]** - Shows basic app flow.
+*   **[App Flow Diagram](#app-flow-diagram)** - Shows basic app flow.
 *   **[Insert Link to EER Diagram]** - Relational database schema mapping Users, Groups, Polls, and Availability Blocks.
 *   **[Insert Link to Flowchart]** - Logic flows for pages and processes.
+
+## App Flow Diagram
+
+<img width="2442" height="850" alt="AppFlow Diagram drawio" src="https://github.com/user-attachments/assets/84bc8cf5-ca5d-43fb-80c4-67c1a51a6d36" />
