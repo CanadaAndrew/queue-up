@@ -19,7 +19,7 @@ Instead of endlessly messaging back and forth in group chats to find a time that
 
 *   **[App Flow Diagram](#app-flow-diagram)** - Shows basic app flow.
 *   **[EER Diagram](#eer-diagram)** - Relational database schema mapping Users, Groups, Polls, and Availability Blocks.
-*   **[Insert Link to Figma] - Initial Figma prototype for the mobile webpage.
+*   **[Insert Link to Figma]** - Initial Figma prototype for the mobile webpage.
 *   **[Insert Link to Flowchart]** - Logic flows for pages and processes.
 
 ## App Flow Diagram
