@@ -18,9 +18,14 @@ Instead of endlessly messaging back and forth in group chats to find a time that
 *This section serves as a living document for the system architecture.*
 
 *   **[App Flow Diagram](#app-flow-diagram)** - Shows basic app flow.
-*   **[Insert Link to EER Diagram]** - Relational database schema mapping Users, Groups, Polls, and Availability Blocks.
+*   **[EER Diagram](#eer-diagram)** - Relational database schema mapping Users, Groups, Polls, and Availability Blocks.
+*   **[Insert Link to Figma] - Initial Figma prototype for the mobile webpage.
 *   **[Insert Link to Flowchart]** - Logic flows for pages and processes.
 
 ## App Flow Diagram
 
 <img width="2442" height="850" alt="AppFlow Diagram drawio" src="https://github.com/user-attachments/assets/84bc8cf5-ca5d-43fb-80c4-67c1a51a6d36" />
+
+## EER Diagram
+
+<img width="1252" height="1022" alt="queue-upEER drawio" src="https://github.com/user-attachments/assets/a3812c7d-23bc-4fc4-bf5b-73a4fc23776f" />
