@@ -28,4 +28,5 @@ Instead of endlessly messaging back and forth in group chats to find a time that
 
 ## EER Diagram
 
-<img width="1252" height="1022" alt="queue-upEER drawio" src="https://github.com/user-attachments/assets/a3812c7d-23bc-4fc4-bf5b-73a4fc23776f" />
+<img width="1402" height="1022" alt="queue-upEERV2 drawio" src="https://github.com/user-attachments/assets/3b146dbf-7ae6-4f6c-8439-f5967a7f543b" />
+
