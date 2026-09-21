@@ -34,8 +34,8 @@ Instead of endlessly messaging back and forth in group chats to find a time that
 ## Changelog and Sprints
 
 ### Changelog
-* Added "Games" Entity to the database to more accurately reflect the MVP
-* Added Sprint summary and changelog
+* Finished Sprint 3 and added Sprint 4 to the sprint section
+* Added Screenshots of basic wireframes to sprint 3
 
 ### Sprints
 
@@ -44,9 +44,9 @@ Instead of endlessly messaging back and forth in group chats to find a time that
 
 - Created a requirements document, listing the requirements for an MVP
   
--   Created an initial EER Diagram for the DB
+- Created an initial EER Diagram for the DB
   
--   Created an initial Appflow Diagram
+- Created an initial Appflow Diagram
   
 </details>
 
@@ -55,15 +55,34 @@ Instead of endlessly messaging back and forth in group chats to find a time that
   
 - Designed basic wireframes for Login, User Dashboard, User Calendar, Friends List, and Friend Calendar
 
--   Changed "Friends" attribute into an entity
+- Changed "Friends" attribute into an entity
 </details>
 
 <details>
-<summary><strong>Sprint 3: Initial Figma Prototype(IN PROGRESS)</strong></summary>
+<summary><strong>Sprint 3: Initial Figma Prototype</strong></summary>
   
--   Added Changelog and Sprints to the summary
+- Completed wireframes for User Groups, Group Dashboard, Group Creation, and Poll Creation.
   
--   Working on User Groups, Group page, Group creation, and Poll creation wireframes
+- Updated EER Diagram: Added "Games" as an entity to properly track game-specific groups.
   
--   Added "Games" as an entity in the EER Diagram
+- Updated README structure: Added Changelog and Sprints sections for better project tracking.
+
+**Preview of Wireframes:**
+
+<img width="367" height="769" alt="image" src="https://github.com/user-attachments/assets/9332d46a-57db-439f-9494-5de72be7d79f" /> 
+<img width="956" height="852" alt="image" src="https://github.com/user-attachments/assets/d227f565-012b-4c39-a2df-6a933d7c59df" /> 
+<img width="1112" height="839" alt="image" src="https://github.com/user-attachments/assets/63253cff-1d11-4637-86aa-95592dcf1c5c" />
+
+</details>
+
+<details>
+<summary><strong>Sprint 4: Refining Figma Design Prototype(In Progress)</strong></summary>
+  
+- Upgrading the basic wireframes into actual UI designs
+  
+- Applying the new color scheme across all app screens
+  
+- Standardizing UI components like cards and buttons so everything looks consistent
+  
+- Adjusting text colors to improve dark mode readability
 </details>
