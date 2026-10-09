@@ -89,6 +89,7 @@ Instead of endlessly messaging back and forth in group chats to find a time that
 - Completed all pages up to the polls. Poll pages will be carried over to the next sprint.
 
 **Preview of Current Wireframes:**
+
 <img width="407" height="807" alt="Screenshot 2026-10-09 161748" src="https://github.com/user-attachments/assets/67c73cef-3e68-45c2-ba85-648676d90d35" />
 <img width="1209" height="894" alt="image" src="https://github.com/user-attachments/assets/2f115ce1-9f7e-48f1-b070-b387aed1c99d" />
 
