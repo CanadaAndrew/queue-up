@@ -19,6 +19,7 @@ Instead of endlessly messaging back and forth in group chats to find a time that
 
 *   **[App Flow Diagram](#app-flow-diagram)** - Shows basic app flow.
 *   **[EER Diagram](#eer-diagram)** - Relational database schema mapping Users, Groups, Polls, and Availability Blocks.
+*   **[Relation Table](#relation-table)** - The relation table mapped from the current EER diagram.
 *   **[Link to Figma page](https://www.figma.com/design/yH562zYfFqHDNlKmIBL9gr/Queue-Up-Final-?node-id=2-39&t=x1yfr4ENHv6OKrnI-1)** - The current figma page used to design queue-up.
 *   **[Changelog and Sprints](#changelog-and-sprints)** - Current changelog and sprint summaries
 
@@ -28,13 +29,16 @@ Instead of endlessly messaging back and forth in group chats to find a time that
 
 ## EER Diagram
 
-<img width="1402" height="1022" alt="queue-upEERV3 drawio" src="https://github.com/user-attachments/assets/0522c6aa-4a49-4559-beea-37be57648ee9" />
+<img width="1442" height="1062" alt="queue-upEER drawio (1)" src="https://github.com/user-attachments/assets/94ff4542-91d0-4b36-8d9b-cbcc5a73503d" />
+
+## Relation Table
+
+<img width="1785" height="315" alt="RelationTable drawio" src="https://github.com/user-attachments/assets/1e86630f-56d7-432c-95b9-ac6c213820d3" />
 
 ## Changelog and Sprints
 
 ### Changelog
-* Finished Sprint 5 and put Sprint 6 in the Sprints section
-* Added Screenshots of current version of wireframes for Sprint 5
+* Modified EER Diagram and added Relation Table Diagram
 
 ### Sprints
 
