@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+:root,
+[data-theme="classic"]{
+  --bg-color: #0F1115;
+  --card-color: #181B22;
+  --press-color: #232730;
+  --main-text-color: #F3F4F6;
+  --sub-text-color: #9CA3AF;
+  --button-text-color: #FFFFFF;
+  /*Primary color is also used for primary slider color*/
+  --primary-button-color: #4F6EF7;
+  --secondary-button-color: #4B5563;
+  --delete-color: #E11D48;
+  /*Secondary slider color is also used for friend color*/
+  --secondary-slider-color: #14B8A6; 
+  --poll-color: #38BDF8;
+  --event-color: #F59E0B;
+  --group-color: #A855F7;
+}
+
+@theme{
+  --font-body: "Inter", sans-serif;
+  --font-header: "DM Sans", sans-serif;
+  --shadow-neon: 0 0 20px 0px rgb(0 0 0 / .6);
+}
+
+@theme inline{
+  --color-background: var(--bg-color);
+  --color-card: var(--card-color);
+  --color-press: var(--press-color);
+  --color-main-text: var(--main-text-color);
+  --color-sub-text: var(--sub-text-color);
+  --color-button-text: var(--button-text-color);
+  --color-primary-button: var(--primary-button-color);
+  --color-secondary-button: var(--secondary-button-color);
+  --color-delete: var(--delete-color);
+  --color-secondary-slider: var(--secondary-slider-color);
+  --color-poll: var(--poll-color);
+  --color-event: var(--event-color);
+  --color-group: var(--group-color);
+}
+
+body{
+  background-color: var(--bg-color);
+  color: var(--main-text-color);
+  font-family: var(--font-body);
+  margin: 0;
+  min-height: 100vh;
+}
+
+@layer components{
+  .text-h1{
+    @apply font-header text-3xl font-bold text-main-text leading-normal;
+  }
+
+  .text-h2{
+    @apply text-2xl font-bold text-main-text leading-normal;
+  }
+
+  .text-body{
+    @apply text-xl font-normal text-main-text leading-normal;
+  }
+
+  .text-caption{
+    @apply text-sm font-normal text-main-text leading-normal;
+  }
+
+  .button{
+    @apply flex w-full flex-row items-center justify-center rounded-full border border-main-text bg-primary-button cursor-pointer transition-opacity hover:opacity-90 active:opacity-75;
+  }
+
+  .button-oauth {
+    @apply gap-3 md:px-6 py-3;
+  }
+}

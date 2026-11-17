@@ -38,7 +38,8 @@ Instead of endlessly messaging back and forth in group chats to find a time that
 ## Changelog and Sprints
 
 ### Changelog
-* Modified EER Diagram and added Relation Table Diagram
+* Changed sprint 6's status to complete and added sprint 7
+* Added the react project to the github
 
 ### Sprints
 
@@ -116,11 +117,16 @@ Instead of endlessly messaging back and forth in group chats to find a time that
 </details>
 
 <details>
-  <summary><strong>Sprint 6: Database, Login, and User Dashboard Development(Ongoing)</strong></summary>
+  <summary><strong>Sprint 6: Database, Login, and User Dashboard Development(Complete)</strong></summary>
+  Finished:
 
   - Develop relational table with the EER diagram and then create tables in SQL.
 
-  - Develop frontend for login page and the user dashboard.
+  - Develop frontend for login page.
+
+  Did not finish:
+
+  - Develop frontend for user dashboard.
 
   - Host project on Vercel.
 
@@ -128,4 +134,18 @@ Instead of endlessly messaging back and forth in group chats to find a time that
 
   - Establish third-party login with Google and Discord.
 
+</details>
+
+<details>
+  <summary><strong>Sprint 7: Continued development on frontend modules and backend functionality</strong></summary>
+
+  - Finish up the frontend for the user dashboard:
+    - Create group, events, polls, and answers card and elements.
+    - Complete the first time setup popup
+
+  - Set up router navigation between login and user dashboard.
+
+  - Set up third-party login with Google and Discord
+
+  - Host project on Vercel.
 </details>
